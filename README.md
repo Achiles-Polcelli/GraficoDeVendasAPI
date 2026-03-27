@@ -7,3 +7,5 @@ API de Gráfico de Vendas com as informações:
 
 Foi criada em JavaScript e React, com ajuda do Moongose e ChartJS. 
 O Banco de dados utilizado foi MongoDB
+
+O arquivo 'test.vendamensals.json' tem todos os arquivos utilizados no MongoDB.
